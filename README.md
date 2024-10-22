@@ -4,7 +4,7 @@ Here you can report issues and request features.
 
 ## 📋 Reporting Issues
 
-Found a bug or experiencing a problem? Help us improve by opening an issue! Please provide as much detail as possible, including:
+Found a bug or experiencing a problem? Help us improve by opening an discussion! Please provide as much detail as possible, including:
 
 - A clear description of the issue
 - Steps to reproduce the issue (if applicable)
@@ -12,7 +12,7 @@ Found a bug or experiencing a problem? Help us improve by opening an issue! Plea
 
 ## 💡 Feature Requests
 
-Have an idea to make einfachzocken better? We'd love to hear it! Open a feature request and share:
+Have an idea to make einfachzocken better? We'd love to hear it! Open a discussion and share:
 
 - What problem this feature would solve
 - How it would benefit users
